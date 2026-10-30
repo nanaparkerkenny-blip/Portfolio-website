@@ -8,11 +8,12 @@ My live portfolio website:
 This is my first basic web-development portfolio, built using HTML and CSS. I will update and expand this with JavaScript features and new projects in the courses.
 
 ## List of Completed Projects
-1. ** Challenges - Styled Footer Page **
--Created an HTML footer with centered, bold text using CSS styling
-2. ** Filezilla **
-- Filezilla - Using filezilla to upload my file content.
-
+ ** Space Station Site **
+ -This page is an example home page for a Space Travel company. It's styled using CSS and contains a navbar, image containers, and a form.
+ 
+ ** Movie Theater Site **
+ -This page is an example home page for a Movie Theater that is styled using Bootstrap components including but not limited to a navbar,jumbotron, form, cards, and dropdowns.
+ 
   ## Where to Find Me
   GitHub Profile:
   
